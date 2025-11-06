@@ -1,5 +1,6 @@
-# ☢️ Vault 84
+# ☢️ Vault 84 (Phaser Version)
 **NOTE: This a fork of the original repo, which was being worked on by me and Xico. As I am now learning Phaser, I forked this to make changes to the project on my own, hopefully to implement into a final version/prototype.**
+
 Vault 84 is a **resource and infrastructure management game** set in a fictional post-apocalyptic vault.  
 This repository contains the source code and project assets.
 
